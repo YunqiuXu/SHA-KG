@@ -22,7 +22,7 @@ This repository contains code for the paper "Deep Reinforcement Learning with St
 + Run the code
 ```python
 
-python train_shakg.py
+python train.py
 ```
 
 ## Citation

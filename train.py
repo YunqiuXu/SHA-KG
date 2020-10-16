@@ -1,11 +1,3 @@
-# Different graphs
-#  graph_state: full new kg
-#  graph_state_1_connectivity: you are in, room connectivity to other rooms
-#  graph_state_2_roomitem: you are in, this room has
-#  graph_state_3_youritem: your inventory
-#  graph_state_4_otherroom: prev graph state remove you
-#  graph_state_5_mask (not used): intersection of kg1, kg2 and kg3
-
 # Before running, launch redis (default port 6381) and Stanford corenlp (default port 9010)
 # cd stanford-corenlp-full-2018-10-05/ && java -mx8g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -port 9010 -timeout 15000
 # Then run ```python train_shakg.py```

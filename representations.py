@@ -1,3 +1,11 @@
+# Different graphs
+#  graph_state: full new kg
+#  graph_state_1_connectivity: room connectivity (history included)
+#  graph_state_2_roomitem: what's in current room
+#  graph_state_3_youritem: your inventory
+#  graph_state_4_otherroom: remove you related nodes (history included)
+#  graph_state_5_mask (not used): intersection of kg1, kg2 and kg3
+
 import networkx as nx
 import numpy as np
 import openie

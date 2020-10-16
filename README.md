@@ -36,4 +36,4 @@ We thank [rajammanabrolu/KG-A2C](https://github.com/rajammanabrolu/KG-A2C) for p
 
 ## License
 
-[MIT License]()
+[MIT License](https://github.com/YunqiuXu/SHA-KG/blob/main/LICENSE)

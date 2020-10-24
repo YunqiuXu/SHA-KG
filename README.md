@@ -5,6 +5,7 @@
 This repository contains official implementation for our NeurIPS2020 paper:
 
 [Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games](https://arxiv.org/pdf/2010.11655.pdf)
+
 Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou and Chengqi Zhang
 
 

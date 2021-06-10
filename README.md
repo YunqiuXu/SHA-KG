@@ -43,13 +43,13 @@ Different games may have different GPU memory requirement and running time. The 
 ## Citation
 
 ```
-@article{xu20,
-  title={Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games},
-  author={Yunqiu Xu, Meng Fang, Ling Chen, Yali Du, Joey Tianyi Zhou, Chengqi Zhang},
-  journal={CoRR},
-  year={2020},
-  url={https://arxiv.org/abs/2010.11655},
-  volume={abs/2010.11655}
+@inproceedings{xu2020neurips,
+  author = {Xu, Yunqiu and Fang, Meng and Chen, Ling and Du, Yali and Zhou, Joey Tianyi and Zhang, Chengqi},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  pages = {16495--16507},
+  title = {Deep Reinforcement Learning with Stacked Hierarchical Attention for Text-based Games},
+  volume = {33},
+  year = {2020}
 }
 ```
 
